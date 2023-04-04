@@ -1,4 +1,4 @@
-FROM ubuntu:bionic
+FROM ubuntu:lunar
 
 RUN set -x && apt-get update && \
     #
